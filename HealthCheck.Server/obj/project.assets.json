@@ -473,11 +473,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karimmoustamid/Desktop/Code/FullStackProject/HealthCheck/HealthCheck.Server/HealthCheck.Server.csproj",
+      "projectUniqueName": "/Users/karimmoustamid/Desktop/Code/00-Project/HealthCheck/HealthCheck.Server/HealthCheck.Server.csproj",
       "projectName": "HealthCheck.Server",
-      "projectPath": "/Users/karimmoustamid/Desktop/Code/FullStackProject/HealthCheck/HealthCheck.Server/HealthCheck.Server.csproj",
+      "projectPath": "/Users/karimmoustamid/Desktop/Code/00-Project/HealthCheck/HealthCheck.Server/HealthCheck.Server.csproj",
       "packagesPath": "/Users/karimmoustamid/.nuget/packages/",
-      "outputPath": "/Users/karimmoustamid/Desktop/Code/FullStackProject/HealthCheck/HealthCheck.Server/obj/",
+      "outputPath": "/Users/karimmoustamid/Desktop/Code/00-Project/HealthCheck/HealthCheck.Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karimmoustamid/.nuget/NuGet/NuGet.Config"
